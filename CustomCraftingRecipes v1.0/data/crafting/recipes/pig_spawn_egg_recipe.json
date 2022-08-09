@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " # ",
+        "PE#",
+        " C "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:porkchop"
+        },
+        "P": {
+            "item": "minecraft:potato"
+        },
+        "E": {
+            "item": "minecraft:egg"
+        },
+        "C": {
+            "item": "minecraft:carrot"
+        }
+    },
+    "result": {
+        "item": "minecraft:pig_spawn_egg",
+        "count": 1
+    }
+}

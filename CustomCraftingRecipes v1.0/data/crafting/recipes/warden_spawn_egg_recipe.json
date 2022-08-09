@@ -1,0 +1,30 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:sculk"
+        },
+        {
+            "item": "minecraft:echo_shard"
+        },
+        {
+            "item": "minecraft:sculk_catalyst"
+        },
+        {
+            "item": "minecraft:dragon_egg"
+        },
+        {
+            "item": "minecraft:disc_fragment_5"
+        },
+        {
+            "item": "minecraft:sculk_shrieker"
+        },
+        {
+            "item": "minecraft:sculk_sensor"
+        }
+    ],
+    "result": {
+        "item": "minecraft:warden_spawn_egg",
+        "count": 1
+    }
+}

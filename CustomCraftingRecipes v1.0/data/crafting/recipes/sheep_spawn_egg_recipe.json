@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " # ",
+        "WE#",
+        " W "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:mutton"
+        },
+        "W": {
+            "item": "minecraft:wheat"
+        },
+        "E": {
+            "item": "minecraft:egg"
+        }
+    },
+    "result": {
+        "item": "minecraft:sheep_spawn_egg",
+        "count": 1
+    }
+}
