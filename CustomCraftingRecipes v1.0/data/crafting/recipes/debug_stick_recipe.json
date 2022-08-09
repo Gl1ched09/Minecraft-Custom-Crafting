@@ -1,0 +1,32 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#D#",
+        "E/E",
+        "JQJ"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:echo_shard"
+        },
+        "D": {
+            "item": "minecraft:dragon_egg"
+        },
+        "E": {
+            "item": "minecraft:experience_bottle"
+        },
+        "/": {
+            "item": "minecraft:stick"
+        },
+        "J": {
+            "item": "minecraft:end_crystal"
+        },
+        "Q": {
+            "item": "minecraft:enchanted_book"
+        }
+    },
+    "result": {
+        "item": "minecraft:debug_stick",
+        "count": 1
+    }
+}

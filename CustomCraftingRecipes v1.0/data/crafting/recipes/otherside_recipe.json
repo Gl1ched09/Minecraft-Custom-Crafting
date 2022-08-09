@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#SM",
+        "DDD",
+        "#SM"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:deepslate_bricks"
+        },
+        "S": {
+            "item": "minecraft:stone_bricks"
+        },
+        "M": {
+            "item": "minecraft:mossy_cobblestone"
+        },
+        "D": {
+            "item": "minecraft:disc_fragment_5"
+        }
+    },
+    "result": {
+        "item": "minecraft:music_disc_otherside",
+        "count": 1
+    }
+}
